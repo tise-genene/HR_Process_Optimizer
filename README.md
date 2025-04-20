@@ -35,8 +35,8 @@ To get a copy of the project up and running on your local machine for developmen
 1. **Clone the repository**:
    git clone https://github.com/yourusername/HRMS-Yekatit12.git
    
-2. **cd HRMS-Yekatit12**
-     cd HRMS-Yekatit12
+2. **cd Into Project Folder**: 
+     cd HR_Process_Optimizer
 3. **Install dependencies**:
    composer install
 
