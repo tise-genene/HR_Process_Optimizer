@@ -34,8 +34,9 @@ To get a copy of the project up and running on your local machine for developmen
 
 1. **Clone the repository**:
    git clone https://github.com/yourusername/HRMS-Yekatit12.git
-   cd HRMS-Yekatit12
-
+   
+2. **cd HRMS-Yekatit12**
+     cd HRMS-Yekatit12
 3. **Install dependencies**:
    composer install
 
@@ -44,7 +45,7 @@ To get a copy of the project up and running on your local machine for developmen
   Create a MySQL database named hrms_yekatit12.
   Import the database schema located in the /database folder: hrms_yekatit12.sql.
   
-4. **Configure Environment Settings**:
+5. **Configure Environment Settings**:
 
   Copy .env.example to .env and update the database credentials and other settings:
    cp .env.example .env
